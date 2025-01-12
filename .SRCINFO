@@ -1,6 +1,6 @@
 pkgbase = conan
 	pkgdesc = A distributed, open source, C/C++ package manager.
-	pkgver = 2.9.3
+	pkgver = 2.11.0
 	pkgrel = 1
 	url = https://conan.io
 	arch = any
@@ -25,7 +25,7 @@ pkgbase = conan
 	depends = python-pyjwt>=2.4.0
 	provides = conan
 	conflicts = conan1
-	source = conan-2.9.3.tar.gz::https://github.com/conan-io/conan/archive/2.9.3.tar.gz
-	md5sums = d612ca66d9d904caa560f1a98bc1bb09
+	source = conan-2.11.0.tar.gz::https://github.com/conan-io/conan/archive/2.11.0.tar.gz
+	md5sums = 1fd3326a5c2252a3b31f25166ce4a41f
 
 pkgname = conan
